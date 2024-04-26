@@ -2,7 +2,7 @@
 
 ## Description
 
-With this app, you can add any notes you'd like
+With this app, you can add any notes you'd like.
 
 ## Installation
 
