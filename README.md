@@ -2,11 +2,11 @@
 
 ## Description
 
-With this app, you can add any notes you'd like.
+With this app, you can add and view any notes you'd like.
 
 ## Installation
 
-To use, visit the link: https://NoteTaker-ztzo.onrender.com/
+To use, visit the link: https://express-note-taker-y20b.onrender.com
 
 ## Usage
 
